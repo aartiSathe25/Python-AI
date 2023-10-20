@@ -1,3 +1,4 @@
+#user1 and user2 MultiPlayers Games between the 2 users
 def User1Turn(board):
   pos = input("Enter X's Position:")
   pos = int(pos)
